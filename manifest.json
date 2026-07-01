@@ -15,7 +15,7 @@
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "58.0",
-      "id": "{477aa089-9abb-438b-ba8b-4a713827289c}"
+      "id": "tab-suspender-firefox_michaels-version@github.com-michael679089"
     }
   },
   "browser_action": {
